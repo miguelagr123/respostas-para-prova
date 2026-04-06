@@ -1,0 +1,25 @@
+3.branch faz uma ramificação do código, por exemplo: eu criei o código,meu amigo queria mudar algo do codigo, para não mudar o código master ele cria uma branch com a modificação que ele quer colocar
+
+4.git add. pega todos os arquivos da pasta que eu selecionei e coloca na branch
+
+5.em um conflito acontece quando o usuario que dar merge na branch de uma branch com o master que por conta dos arquivos diferentes mas em mesmas posições acabam dando erro
+
+6.versionamente de código é o conceito de criar varias versões do mesmo código feito muita das vezes por pessoas diferentes,ele é importante principalmente quando na criação de um software em que varias pessoas estão testandp e programando o site,tendo varias linhas to tempo diferentes para ver se a erros ou não
+
+7.git pull pega e baixa o git que eu coloquei o link do github
+
+9.não sei
+
+11.faz criar um arquivo com a extenção que a pessoa quer
+
+12.pegadinha
+
+13.hash é um código que aparece quando é mudado algo na branch,
+
+14.a imagem indica um erro de conflito,para resolver é preciso decidir manualmente qual sai e qual fica no lugar
+
+15.as versões que estão dando conflito
+
+19.o git que esta querendo pegar não existe mais
+
+20.nada para comentar,a area de trabalho limpa
